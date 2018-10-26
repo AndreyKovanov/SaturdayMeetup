@@ -10,6 +10,44 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="tiles\akvelon-0-0.jpeg" />
+    <None Remove="tiles\akvelon-0-1.jpeg" />
+    <None Remove="tiles\akvelon-0-2.jpeg" />
+    <None Remove="tiles\akvelon-0-3.jpeg" />
+    <None Remove="tiles\akvelon-1-0.jpeg" />
+    <None Remove="tiles\akvelon-1-1.jpeg" />
+    <None Remove="tiles\akvelon-1-2.jpeg" />
+    <None Remove="tiles\akvelon-1-3.jpeg" />
+    <None Remove="tiles\akvelon-2-0.jpeg" />
+    <None Remove="tiles\akvelon-2-1.jpeg" />
+    <None Remove="tiles\akvelon-2-2.jpeg" />
+    <None Remove="tiles\akvelon-2-3.jpeg" />
+    <None Remove="tiles\akvelon-3-0.jpeg" />
+    <None Remove="tiles\akvelon-3-1.jpeg" />
+    <None Remove="tiles\akvelon-3-2.jpeg" />
+    <None Remove="tiles\akvelon-3-3.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="tiles\akvelon-0-0.jpeg" />
+    <EmbeddedResource Include="tiles\akvelon-0-1.jpeg" />
+    <EmbeddedResource Include="tiles\akvelon-0-2.jpeg" />
+    <EmbeddedResource Include="tiles\akvelon-0-3.jpeg" />
+    <EmbeddedResource Include="tiles\akvelon-1-0.jpeg" />
+    <EmbeddedResource Include="tiles\akvelon-1-1.jpeg" />
+    <EmbeddedResource Include="tiles\akvelon-1-2.jpeg" />
+    <EmbeddedResource Include="tiles\akvelon-1-3.jpeg" />
+    <EmbeddedResource Include="tiles\akvelon-2-0.jpeg" />
+    <EmbeddedResource Include="tiles\akvelon-2-1.jpeg" />
+    <EmbeddedResource Include="tiles\akvelon-2-2.jpeg" />
+    <EmbeddedResource Include="tiles\akvelon-2-3.jpeg" />
+    <EmbeddedResource Include="tiles\akvelon-3-0.jpeg" />
+    <EmbeddedResource Include="tiles\akvelon-3-1.jpeg" />
+    <EmbeddedResource Include="tiles\akvelon-3-2.jpeg" />
+    <EmbeddedResource Include="tiles\akvelon-3-3.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="3.3.0.912540" />
   </ItemGroup>
 </Project>
